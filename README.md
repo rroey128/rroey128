@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C++</b>
-  - [Coalition Race - Handle memory & C++ important concepts](https://github.com/rroey128/Coalition-Race)
+  - ['Coalition Race' - a coalition creation system](https://github.com/rroey128/Coalition-Race)<b><i>(C++)</b></i>
 - <b>Multi-Threaded</b>
   - [Multi Threaded game of 'set'](https://github.com/rroey128/Multi-Threaded-set-game) <b><i>(JAVA)</b></i>
 - <b>Communication and io</b>
