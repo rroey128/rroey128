@@ -8,8 +8,8 @@
   - [Multi Threaded game of 'set'](https://github.com/rroey128/Multi-Threaded-set-game) <b><i>(JAVA)</b></i>
 - <b>Communication and io</b>
   - [World-cup subscription system : client&server written from scratch](https://github.com/rroey128/World-Cup-subscription-system/tree/main)<b><i>(JAVA and C++)</b></i>
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Low level</b>
+  - [Antivirus light - C based virus detector](https://github.com/rroey128/Antivirus-light---virus-detector)<b><i>(C)</b></i>
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
@@ -17,7 +17,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Roey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Roey | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/roeytordgeman
