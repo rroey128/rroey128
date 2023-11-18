@@ -10,7 +10,7 @@
   - [World-cup subscription system : client&server written from scratch](https://github.com/rroey128/World-Cup-subscription-system/tree/main)<b><i>(JAVA and C++)</b></i>
 - <b>Low level</b>
   - [Antivirus light - C based virus detector](https://github.com/rroey128/Antivirus-light---virus-detector)<b><i>(C)</b></i>
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Command line interpeter - C based shell](https://github.com/rroey128/Command-line-interpeter---C-based-shell)<b><i>(C)</b></i>
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
