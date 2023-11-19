@@ -14,8 +14,8 @@
   - [Attach virus program](https://github.com/rroey128/Attach-virus-/tree/main)<b><i>(C & Assembly)</b></i>
   - [Assembly Multi-Precision Integer IO and Adder](https://github.com/rroey128/Multi-Precision-Integer-IO-and-Adder/blob/main/README.md)<b><i>(Assembly)</b></i>
   - ['Hexeditplus' - C based program designed to utilize and edit elf files](https://github.com/rroey128/Hexeditplus-/tree/main)<b><i>(C)</b></i>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Computer Vision</b>
+  - [Sky removal&re-annotation script on data-sets using detectron2 model-zoo](https://github.com/rroey128/Sky-removal-and-re-annotate-script-/tree/main)<b><i>(Python)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
