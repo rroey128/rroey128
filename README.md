@@ -12,6 +12,7 @@
   - [Antivirus light - C based virus detector](https://github.com/rroey128/Antivirus-light---virus-detector)<b><i>(C)</b></i>
   - [Command line interpeter - C based shell](https://github.com/rroey128/Command-line-interpeter---C-based-shell)<b><i>(C)</b></i>
   - [Attach virus program](https://github.com/rroey128/Attach-virus-/tree/main)<b><i>(C & Assembly)</b></i>
+  - [Assembly Multi-Precision Integer IO and Adder](https://github.com/rroey128/Multi-Precision-Integer-IO-and-Adder/blob/main/README.md)<b><i>(Assembly)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
