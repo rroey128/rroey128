@@ -7,12 +7,13 @@
 - <b>Multi-Threaded</b>
   - [Multi Threaded game of 'set'](https://github.com/rroey128/Multi-Threaded-set-game) <b><i>(JAVA)</b></i>
 - <b>Communication and io</b>
-  - [World-cup subscription system : client&server written from scratch](https://github.com/rroey128/World-Cup-subscription-system/tree/main)<b><i>(JAVA and C++)</b></i>
+  - [World-cup subscription system : client&server written from scratch](https://github.com/rroey128/World-Cup-subscription-system/tree/main)<b><i>(JAVA & C++)</b></i>
 - <b>Low level</b>
   - [Antivirus light - C based virus detector](https://github.com/rroey128/Antivirus-light---virus-detector)<b><i>(C)</b></i>
   - [Command line interpeter - C based shell](https://github.com/rroey128/Command-line-interpeter---C-based-shell)<b><i>(C)</b></i>
   - [Attach virus program](https://github.com/rroey128/Attach-virus-/tree/main)<b><i>(C & Assembly)</b></i>
   - [Assembly Multi-Precision Integer IO and Adder](https://github.com/rroey128/Multi-Precision-Integer-IO-and-Adder/blob/main/README.md)<b><i>(Assembly)</b></i>
+  - ['Hexeditplus' - C based program designed to utilize and edit elf files](https://github.com/rroey128/Hexeditplus-/tree/main)<b><i>(C)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
